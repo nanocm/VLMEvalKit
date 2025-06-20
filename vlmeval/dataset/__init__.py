@@ -206,7 +206,7 @@ VIDEO_DATASET = [
     CGBench_MCQ_Grounding_Mini, CGBench_OpenEnded_Mini, CGBench_MCQ_Grounding, CGBench_OpenEnded,
     QBench_Video, QBench_Video_MCQ, QBench_Video_VQA,
     VideoMMLU_CAP, VideoMMLU_QA,
-    Video_Holmes
+    Video_Holmes, VCRBench
 ]
 
 TEXT_DATASET = [
